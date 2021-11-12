@@ -1,0 +1,2 @@
+# Deadeye
+Discord Sniper Bot
